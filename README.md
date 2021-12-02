@@ -1,1 +1,1 @@
-# CS643
+# CS643 Programming Assignment 2
